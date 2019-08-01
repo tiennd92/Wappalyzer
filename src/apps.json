@@ -2107,6 +2107,17 @@
       },
       "website": "http://comandia.com"
     },
+    "OnShop": {
+      "cats": [
+        6
+      ],
+      "icon": "onshop.png",
+      "js": {
+        "onshop": ""
+      },
+      "script": "onshop.*\\.js",
+      "website": "https://onshop.aisa"
+    },
     "Combeenation": {
       "cats": [
         6
